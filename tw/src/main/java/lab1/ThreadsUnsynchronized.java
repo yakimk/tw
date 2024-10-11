@@ -1,21 +1,13 @@
 package lab1;
 
 public class ThreadsUnsynchronized {
-    public static int count = 0;
-
-    public static void increment() {
-        count++;
-    }
-
-    public static void decrement() {
-        count--;
-    }
+    static Counter counter = new Counter();
 
     public static class Decrementer extends Thread {
         public void run(){
             int count = 100000000;
             for(int i = 0; i < count; i++){
-                ThreadsUnsynchronized.decrement();
+                counter.decrement();
             }
         }
     }
@@ -25,7 +17,7 @@ public class ThreadsUnsynchronized {
         public void run(){
             int count = 100000000;
             for(int i = 0; i < count; i++){
-                ThreadsUnsynchronized.increment();
+                counter.increment();
             }
         }
     }
@@ -41,7 +33,7 @@ public class ThreadsUnsynchronized {
         thread1.join();
         thread2.join();
 
-        System.out.println(ThreadsUnsynchronized.count);
+        counter.printCounter();
 
     }
 

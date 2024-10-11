@@ -12,7 +12,6 @@ public class Main {
         thread1.join();
         thread2.join();
 
-        System.out.println(ThreadsUnsynchronized.count);
 
     }
 }
