@@ -1,37 +1,33 @@
 package lab1;
 
 public class Counters {
+
     static private final int iters = 100000000;
+
     public static class Counter {
         int count = 0;
         void printCounter(){
             System.out.println(count);
         }
 
-        void increment(){
-            count++;
-        }
+        void increment(){count++;}
 
-        void decrement(){
-            count--;
-        }
+        void decrement(){count--;}
     }
 
 
     public static class SyncCounter {
         int count = 0;
-        void printCounter(){
+
+        void printCounter() {
             System.out.println(count);
         }
 
-        synchronized void increment(){
+        synchronized void increment() {
             count++;
         }
 
-        synchronized void decrement(){
-            count--;
-        }
-
+        synchronized void decrement() {count--;}
     }
 
     static Counter counter = new Counter();
@@ -39,35 +35,27 @@ public class Counters {
 
     public static class UnsyncDecrementer extends Thread {
         synchronized public void run(){
-            for(int i = 0; i < iters; i++){
-                counter.decrement();
-            }
+            for(int i = 0; i < iters; i++) counter.decrement();
         }
     }
 
     public static class UnsyncIncrementer extends Thread {
 
         synchronized public void run(){
-            for(int i = 0; i < iters; i++){
-                counter.increment();
-            }
+            for(int i = 0; i < iters; i++) counter.increment();
         }
     }
 
     public static class SyncDecrementer extends Thread {
         synchronized public void run(){
-            for(int i = 0; i < iters; i++){
-                syncCounter.decrement();
-            }
+            for(int i = 0; i < iters; i++) syncCounter.decrement();
         }
     }
 
     public static class SyncIncrementer extends Thread {
 
         synchronized public void run(){
-            for(int i = 0; i < iters; i++){
-                syncCounter.increment();
-            }
+            for(int i = 0; i < iters; i++) syncCounter.increment();
         }
     }
 
