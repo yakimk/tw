@@ -1,7 +1,11 @@
-package lab2;
+package a;
 
 public class CounterSemaphore {
     private int state = 0;
+
+    public CounterSemaphore(int startingState) {
+        state = startingState;
+    }
 
     synchronized void get() {
         while (state == 0) {

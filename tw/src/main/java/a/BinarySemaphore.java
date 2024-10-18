@@ -1,13 +1,17 @@
-package lab2;
+package a;
 
 public class BinarySemaphore {
-    enum State {
+    public enum State {
         busy,
         free
     }
 
+
     private State state = State.free;
 
+    public BinarySemaphore(State startingState) {
+        state = startingState;
+    }
 
     synchronized void release() {
         state = State.free;

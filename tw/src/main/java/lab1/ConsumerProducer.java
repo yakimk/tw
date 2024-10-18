@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 public class ConsumerProducer {
 
-    static final int producerCount = 6;
+    static final int producerCount = 7;
     static final int consumerCount = 6;
 
     static final int count = 1000;
