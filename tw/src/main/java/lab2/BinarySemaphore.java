@@ -1,4 +1,4 @@
-package a;
+package lab2;
 
 public class BinarySemaphore {
     public enum State {

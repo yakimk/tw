@@ -1,6 +1,6 @@
-package a;
+package lab2;
 
-public class Solution3 {
+public class Solution2 {
     public static void main(String[] args) {
         Philosophers table = new Philosophers();
 
@@ -9,8 +9,8 @@ public class Solution3 {
             new Thread(() -> {
                 try {
                     while (true) {
-                        table.think(philosopher + 1);
-//                        table.eat(philosopher + 1);
+                        table.think(philosopher);
+                        table.eat2(philosopher);
                     }
                 } catch (InterruptedException e) {
                     Thread.currentThread().interrupt();

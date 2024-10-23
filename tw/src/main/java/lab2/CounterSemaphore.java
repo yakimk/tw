@@ -1,4 +1,4 @@
-package a;
+package lab2;
 
 public class CounterSemaphore {
     private int state = 0;

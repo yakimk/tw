@@ -6,13 +6,13 @@ public class Counters {
 
     public static class Counter {
         int count = 0;
-        void printCounter(){
+        public void printCounter(){
             System.out.println(count);
         }
 
-        void increment(){count++;}
+        public void increment(){count++;}
 
-        void decrement(){count--;}
+        public void decrement(){count--;}
     }
 
 
