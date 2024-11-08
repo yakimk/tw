@@ -7,7 +7,7 @@ import java.util.concurrent.locks.ReentrantLock;
 
 
 public class PipelineMonitor {
-        final int size = 3;
+        final int size = 100;
         final int producerCount = 5;
         final int consumerCount = 10;
         private int[] productionLine = new int[size];
