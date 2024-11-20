@@ -1,0 +1,12 @@
+Philosopher,Test Type,Total Fork Waiting Time (ms),Total Table Waiting Time (ms)
+2,Asymmetric,1448,
+5,Asymmetric,1825,
+10,Assymetric,1780,
+30,Assymetric,2237,
+50,Assymetric,2670,
+100,Asymmetric,2279,
+200,Asymmetric,2135,
+2,Conductor,1633,250
+5,Conductor,2290,5567
+7,Conductor,3101,9099
+9,Conductor,1489,13589,

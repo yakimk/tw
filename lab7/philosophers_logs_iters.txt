@@ -1,0 +1,11 @@
+Philosopher,Method,Fork Waiting Time (ms),Table Waiting Time (ms),Total Waiting Time (ms)
+4,Asymmetric,56,,,
+0,Asymmetric,112,,,
+3,Asymmetric,136,,,
+1,Asymmetric,262,,,
+2,Asymmetric,397,,,
+1,Conductor,4,100,104
+4,Conductor,3,106,109
+0,Conductor,130,129,259
+2,Conductor,130,133,263
+3,Conductor,258,265,523

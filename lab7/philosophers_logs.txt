@@ -1,0 +1,223 @@
+Philosopher 1 (Asymmetric). Total fork waiting time: 1433ms
+Philosopher 0 (Asymmetric). Total fork waiting time: 1460ms
+Philosopher 4 (Asymmetric). Total fork waiting time: 1641ms
+Philosopher 2 (Asymmetric). Total fork waiting time: 1617ms
+Philosopher 1 (Asymmetric). Total fork waiting time: 1904ms
+Philosopher 0 (Asymmetric). Total fork waiting time: 1846ms
+Philosopher 3 (Asymmetric). Total fork waiting time: 3119ms
+Philosopher 7 (Asymmetric). Total fork waiting time: 1842ms
+Philosopher 4 (Asymmetric). Total fork waiting time: 1807ms
+Philosopher 2 (Asymmetric). Total fork waiting time: 1700ms
+Philosopher 8 (Asymmetric). Total fork waiting time: 1660ms
+Philosopher 3 (Asymmetric). Total fork waiting time: 1762ms
+Philosopher 6 (Asymmetric). Total fork waiting time: 1980ms
+Philosopher 9 (Asymmetric). Total fork waiting time: 1790ms
+Philosopher 0 (Asymmetric). Total fork waiting time: 1997ms
+Philosopher 1 (Asymmetric). Total fork waiting time: 2284ms
+Philosopher 5 (Asymmetric). Total fork waiting time: 2482ms
+Philosopher 11 (Asymmetric). Total fork waiting time: 1313ms
+Philosopher 2 (Asymmetric). Total fork waiting time: 1567ms
+Philosopher 1 (Asymmetric). Total fork waiting time: 1581ms
+Philosopher 26 (Asymmetric). Total fork waiting time: 1534ms
+Philosopher 15 (Asymmetric). Total fork waiting time: 1380ms
+Philosopher 18 (Asymmetric). Total fork waiting time: 1676ms
+Philosopher 16 (Asymmetric). Total fork waiting time: 1674ms
+Philosopher 13 (Asymmetric). Total fork waiting time: 1784ms
+Philosopher 8 (Asymmetric). Total fork waiting time: 1783ms
+Philosopher 19 (Asymmetric). Total fork waiting time: 1814ms
+Philosopher 17 (Asymmetric). Total fork waiting time: 1765ms
+Philosopher 22 (Asymmetric). Total fork waiting time: 1819ms
+Philosopher 9 (Asymmetric). Total fork waiting time: 1739ms
+Philosopher 27 (Asymmetric). Total fork waiting time: 1846ms
+Philosopher 14 (Asymmetric). Total fork waiting time: 1828ms
+Philosopher 28 (Asymmetric). Total fork waiting time: 1928ms
+Philosopher 5 (Asymmetric). Total fork waiting time: 1908ms
+Philosopher 7 (Asymmetric). Total fork waiting time: 2094ms
+Philosopher 29 (Asymmetric). Total fork waiting time: 1914ms
+Philosopher 21 (Asymmetric). Total fork waiting time: 1980ms
+Philosopher 23 (Asymmetric). Total fork waiting time: 2158ms
+Philosopher 6 (Asymmetric). Total fork waiting time: 1975ms
+Philosopher 3 (Asymmetric). Total fork waiting time: 2065ms
+Philosopher 24 (Asymmetric). Total fork waiting time: 2188ms
+Philosopher 4 (Asymmetric). Total fork waiting time: 2187ms
+Philosopher 25 (Asymmetric). Total fork waiting time: 2345ms
+Philosopher 20 (Asymmetric). Total fork waiting time: 2776ms
+Philosopher 12 (Asymmetric). Total fork waiting time: 2776ms
+Philosopher 0 (Asymmetric). Total fork waiting time: 3256ms
+Philosopher 10 (Asymmetric). Total fork waiting time: 3506ms
+Philosopher 47 (Asymmetric). Total fork waiting time: 1254ms
+Philosopher 28 (Asymmetric). Total fork waiting time: 1401ms
+Philosopher 17 (Asymmetric). Total fork waiting time: 1487ms
+Philosopher 34 (Asymmetric). Total fork waiting time: 1530ms
+Philosopher 3 (Asymmetric). Total fork waiting time: 1506ms
+Philosopher 36 (Asymmetric). Total fork waiting time: 1437ms
+Philosopher 22 (Asymmetric). Total fork waiting time: 1768ms
+Philosopher 45 (Asymmetric). Total fork waiting time: 1739ms
+Philosopher 31 (Asymmetric). Total fork waiting time: 1561ms
+Philosopher 43 (Asymmetric). Total fork waiting time: 1623ms
+Philosopher 13 (Asymmetric). Total fork waiting time: 1759ms
+Philosopher 0 (Asymmetric). Total fork waiting time: 1599ms
+Philosopher 23 (Asymmetric). Total fork waiting time: 1724ms
+Philosopher 9 (Asymmetric). Total fork waiting time: 1898ms
+Philosopher 19 (Asymmetric). Total fork waiting time: 1811ms
+Philosopher 4 (Asymmetric). Total fork waiting time: 1707ms
+Philosopher 39 (Asymmetric). Total fork waiting time: 1829ms
+Philosopher 42 (Asymmetric). Total fork waiting time: 1844ms
+Philosopher 44 (Asymmetric). Total fork waiting time: 1799ms
+Philosopher 14 (Asymmetric). Total fork waiting time: 1802ms
+Philosopher 8 (Asymmetric). Total fork waiting time: 1844ms
+Philosopher 27 (Asymmetric). Total fork waiting time: 1970ms
+Philosopher 1 (Asymmetric). Total fork waiting time: 2004ms
+Philosopher 24 (Asymmetric). Total fork waiting time: 1812ms
+Philosopher 40 (Asymmetric). Total fork waiting time: 1895ms
+Philosopher 6 (Asymmetric). Total fork waiting time: 1761ms
+Philosopher 15 (Asymmetric). Total fork waiting time: 1995ms
+Philosopher 49 (Asymmetric). Total fork waiting time: 2016ms
+Philosopher 12 (Asymmetric). Total fork waiting time: 1942ms
+Philosopher 37 (Asymmetric). Total fork waiting time: 2058ms
+Philosopher 7 (Asymmetric). Total fork waiting time: 2052ms
+Philosopher 41 (Asymmetric). Total fork waiting time: 2137ms
+Philosopher 38 (Asymmetric). Total fork waiting time: 2137ms
+Philosopher 20 (Asymmetric). Total fork waiting time: 2216ms
+Philosopher 16 (Asymmetric). Total fork waiting time: 2226ms
+Philosopher 30 (Asymmetric). Total fork waiting time: 2364ms
+Philosopher 35 (Asymmetric). Total fork waiting time: 2249ms
+Philosopher 25 (Asymmetric). Total fork waiting time: 2438ms
+Philosopher 46 (Asymmetric). Total fork waiting time: 2340ms
+Philosopher 33 (Asymmetric). Total fork waiting time: 2456ms
+Philosopher 32 (Asymmetric). Total fork waiting time: 2508ms
+Philosopher 48 (Asymmetric). Total fork waiting time: 2638ms
+Philosopher 21 (Asymmetric). Total fork waiting time: 2824ms
+Philosopher 5 (Asymmetric). Total fork waiting time: 3383ms
+Philosopher 11 (Asymmetric). Total fork waiting time: 3382ms
+Philosopher 26 (Asymmetric). Total fork waiting time: 3592ms
+Philosopher 29 (Asymmetric). Total fork waiting time: 5066ms
+Philosopher 2 (Asymmetric). Total fork waiting time: 5098ms
+Philosopher 10 (Asymmetric). Total fork waiting time: 5472ms
+Philosopher 18 (Asymmetric). Total fork waiting time: 5449ms
+Philosopher 84 (Asymmetric). Total fork waiting time: 1361ms
+Philosopher 96 (Asymmetric). Total fork waiting time: 1310ms
+Philosopher 64 (Asymmetric). Total fork waiting time: 1454ms
+Philosopher 90 (Asymmetric). Total fork waiting time: 1528ms
+Philosopher 91 (Asymmetric). Total fork waiting time: 1473ms
+Philosopher 69 (Asymmetric). Total fork waiting time: 1447ms
+Philosopher 89 (Asymmetric). Total fork waiting time: 1511ms
+Philosopher 37 (Asymmetric). Total fork waiting time: 1651ms
+Philosopher 51 (Asymmetric). Total fork waiting time: 1648ms
+Philosopher 72 (Asymmetric). Total fork waiting time: 1930ms
+Philosopher 1 (Asymmetric). Total fork waiting time: 1741ms
+Philosopher 88 (Asymmetric). Total fork waiting time: 1582ms
+Philosopher 43 (Asymmetric). Total fork waiting time: 1725ms
+Philosopher 13 (Asymmetric). Total fork waiting time: 1576ms
+Philosopher 11 (Asymmetric). Total fork waiting time: 1649ms
+Philosopher 70 (Asymmetric). Total fork waiting time: 1765ms
+Philosopher 36 (Asymmetric). Total fork waiting time: 1707ms
+Philosopher 87 (Asymmetric). Total fork waiting time: 1742ms
+Philosopher 65 (Asymmetric). Total fork waiting time: 1846ms
+Philosopher 50 (Asymmetric). Total fork waiting time: 1814ms
+Philosopher 54 (Asymmetric). Total fork waiting time: 1593ms
+Philosopher 44 (Asymmetric). Total fork waiting time: 1893ms
+Philosopher 93 (Asymmetric). Total fork waiting time: 1657ms
+Philosopher 59 (Asymmetric). Total fork waiting time: 1739ms
+Philosopher 0 (Asymmetric). Total fork waiting time: 1852ms
+Philosopher 10 (Asymmetric). Total fork waiting time: 1768ms
+Philosopher 48 (Asymmetric). Total fork waiting time: 1854ms
+Philosopher 21 (Asymmetric). Total fork waiting time: 1866ms
+Philosopher 82 (Asymmetric). Total fork waiting time: 1850ms
+Philosopher 45 (Asymmetric). Total fork waiting time: 1919ms
+Philosopher 74 (Asymmetric). Total fork waiting time: 1731ms
+Philosopher 56 (Asymmetric). Total fork waiting time: 1910ms
+Philosopher 42 (Asymmetric). Total fork waiting time: 1857ms
+Philosopher 80 (Asymmetric). Total fork waiting time: 1799ms
+Philosopher 62 (Asymmetric). Total fork waiting time: 1838ms
+Philosopher 39 (Asymmetric). Total fork waiting time: 1863ms
+Philosopher 15 (Asymmetric). Total fork waiting time: 1815ms
+Philosopher 29 (Asymmetric). Total fork waiting time: 1797ms
+Philosopher 92 (Asymmetric). Total fork waiting time: 1859ms
+Philosopher 32 (Asymmetric). Total fork waiting time: 1919ms
+Philosopher 53 (Asymmetric). Total fork waiting time: 2033ms
+Philosopher 75 (Asymmetric). Total fork waiting time: 1836ms
+Philosopher 49 (Asymmetric). Total fork waiting time: 1841ms
+Philosopher 41 (Asymmetric). Total fork waiting time: 1871ms
+Philosopher 55 (Asymmetric). Total fork waiting time: 1949ms
+Philosopher 83 (Asymmetric). Total fork waiting time: 1990ms
+Philosopher 35 (Asymmetric). Total fork waiting time: 2066ms
+Philosopher 63 (Asymmetric). Total fork waiting time: 1965ms
+Philosopher 77 (Asymmetric). Total fork waiting time: 1939ms
+Philosopher 67 (Asymmetric). Total fork waiting time: 1964ms
+Philosopher 85 (Asymmetric). Total fork waiting time: 2064ms
+Philosopher 57 (Asymmetric). Total fork waiting time: 1988ms
+Philosopher 14 (Asymmetric). Total fork waiting time: 1942ms
+Philosopher 94 (Asymmetric). Total fork waiting time: 2034ms
+Philosopher 2 (Asymmetric). Total fork waiting time: 1895ms
+Philosopher 38 (Asymmetric). Total fork waiting time: 2070ms
+Philosopher 9 (Asymmetric). Total fork waiting time: 1930ms
+Philosopher 73 (Asymmetric). Total fork waiting time: 1898ms
+Philosopher 81 (Asymmetric). Total fork waiting time: 1904ms
+Philosopher 33 (Asymmetric). Total fork waiting time: 1858ms
+Philosopher 76 (Asymmetric). Total fork waiting time: 2025ms
+Philosopher 98 (Asymmetric). Total fork waiting time: 2020ms
+Philosopher 6 (Asymmetric). Total fork waiting time: 2037ms
+Philosopher 78 (Asymmetric). Total fork waiting time: 2165ms
+Philosopher 27 (Asymmetric). Total fork waiting time: 1958ms
+Philosopher 4 (Asymmetric). Total fork waiting time: 2063ms
+Philosopher 34 (Asymmetric). Total fork waiting time: 2163ms
+Philosopher 17 (Asymmetric). Total fork waiting time: 2054ms
+Philosopher 40 (Asymmetric). Total fork waiting time: 2243ms
+Philosopher 8 (Asymmetric). Total fork waiting time: 2163ms
+Philosopher 79 (Asymmetric). Total fork waiting time: 2093ms
+Philosopher 18 (Asymmetric). Total fork waiting time: 2107ms
+Philosopher 60 (Asymmetric). Total fork waiting time: 2122ms
+Philosopher 26 (Asymmetric). Total fork waiting time: 2320ms
+Philosopher 22 (Asymmetric). Total fork waiting time: 2183ms
+Philosopher 66 (Asymmetric). Total fork waiting time: 2206ms
+Philosopher 86 (Asymmetric). Total fork waiting time: 2353ms
+Philosopher 5 (Asymmetric). Total fork waiting time: 2119ms
+Philosopher 99 (Asymmetric). Total fork waiting time: 2213ms
+Philosopher 24 (Asymmetric). Total fork waiting time: 2339ms
+Philosopher 61 (Asymmetric). Total fork waiting time: 2314ms
+Philosopher 47 (Asymmetric). Total fork waiting time: 2545ms
+Philosopher 25 (Asymmetric). Total fork waiting time: 2421ms
+Philosopher 52 (Asymmetric). Total fork waiting time: 2591ms
+Philosopher 97 (Asymmetric). Total fork waiting time: 2647ms
+Philosopher 19 (Asymmetric). Total fork waiting time: 2582ms
+Philosopher 23 (Asymmetric). Total fork waiting time: 2689ms
+Philosopher 30 (Asymmetric). Total fork waiting time: 2651ms
+Philosopher 28 (Asymmetric). Total fork waiting time: 2681ms
+Philosopher 16 (Asymmetric). Total fork waiting time: 2846ms
+Philosopher 12 (Asymmetric). Total fork waiting time: 3091ms
+Philosopher 68 (Asymmetric). Total fork waiting time: 3143ms
+Philosopher 3 (Asymmetric). Total fork waiting time: 3361ms
+Philosopher 46 (Asymmetric). Total fork waiting time: 3165ms
+Philosopher 31 (Asymmetric). Total fork waiting time: 3295ms
+Philosopher 20 (Asymmetric). Total fork waiting time: 3471ms
+Philosopher 71 (Asymmetric). Total fork waiting time: 3750ms
+Philosopher 7 (Asymmetric). Total fork waiting time: 3989ms
+Philosopher 95 (Asymmetric). Total fork waiting time: 4085ms
+
+
+200 assymetric mean time 2135.08 milliseconds
+
+Philosopher 1 (Conductor). Total table waiting time: 1409ms. Total fork waiting time: 25ms
+Philosopher 0 (Conductor). Total table waiting time: 1633ms. Total fork waiting time: 25ms
+Philosopher 1 (Conductor). Total table waiting time: 1537ms. Total fork waiting time: 2587ms
+Philosopher 0 (Conductor). Total table waiting time: 1430ms. Total fork waiting time: 4631ms
+Philosopher 4 (Conductor). Total table waiting time: 1340ms. Total fork waiting time: 9369ms
+Philosopher 3 (Conductor). Total table waiting time: 2290ms. Total fork waiting time: 17567ms
+Philosopher 2 (Conductor). Total table waiting time: 3101ms. Total fork waiting time: 19099ms
+Philosopher 1 (Conductor). Total table waiting time: 2171ms. Total fork waiting time: 5275ms
+Philosopher 0 (Conductor). Total table waiting time: 3007ms. Total fork waiting time: 6650ms
+Philosopher 6 (Conductor). Total table waiting time: 978ms. Total fork waiting time: 8853ms
+Philosopher 5 (Conductor). Total table waiting time: 1604ms. Total fork waiting time: 8756ms
+Philosopher 4 (Conductor). Total table waiting time: 1733ms. Total fork waiting time: 12634ms
+Philosopher 3 (Conductor). Total table waiting time: 1310ms. Total fork waiting time: 21596ms
+Philosopher 2 (Conductor). Total table waiting time: 5298ms. Total fork waiting time: 21535ms
+Philosopher 3 (Conductor). Total table waiting time: 1117ms. Total fork waiting time: 2153ms
+Philosopher 0 (Conductor). Total table waiting time: 953ms. Total fork waiting time: 4459ms
+Philosopher 2 (Conductor). Total table waiting time: 960ms. Total fork waiting time: 4714ms
+Philosopher 1 (Conductor). Total table waiting time: 1025ms. Total fork waiting time: 4687ms
+Philosopher 8 (Conductor). Total table waiting time: 1112ms. Total fork waiting time: 8352ms
+Philosopher 7 (Conductor). Total table waiting time: 1123ms. Total fork waiting time: 16961ms
+Philosopher 6 (Conductor). Total table waiting time: 1469ms. Total fork waiting time: 16974ms
+Philosopher 5 (Conductor). Total table waiting time: 1161ms. Total fork waiting time: 33896ms
+Philosopher 4 (Conductor). Total table waiting time: 5146ms. Total fork waiting time: 33832ms
