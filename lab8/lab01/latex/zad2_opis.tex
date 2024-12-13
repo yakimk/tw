@@ -1,0 +1,22 @@
+\subsection{Opis zadania}
+
+\quad Celem tego ćwiczenia jest zrozumienie sposobu rozwiązywania równań różnicowych przy użyciu iteracji oraz analiza wpływu precyzji obliczeń na wyniki.
+Rozważmy następujące równanie różnicowe:
+\begin{align*}
+        x_{k+1} = 2.25x_k - 0.5x_{k-1},\\
+        \textrm{gdzie } x_0 = \frac{1}{3}, x_1 = \frac{1}{12}.
+\end{align*}
+
+Zadanie polega na wygenerowaniu pierwszych $n$ wyrazów tego ciągu oraz analizie zachowania się ciągu w zależności od precyzji użytych obliczeń.
+
+Wykonamy obliczenia dla 3 przypadków:
+\begin{enumerate}
+    \item używając pojedynczej precyzji (float32) oraz przyjmując $n = 225$,
+    \item używając podwójnej precyzji (float64) oraz przyjmując $n = 60$,
+    \item używając reprezentacji \emph{Fraction} z~biblioteki \emph{fractions} oraz przyjmując $n = 225$.
+\end{enumerate}
+
+Dalej porównamy wyniki uzyskane przy użyciu wymienionych reprezentacji liczb zmiennoprzecinkowych z wartościami obliczonymi przy użyciu postaci jawnej ciągu:
+$$
+x_k = \frac{4^{-k}}{3}.
+$$

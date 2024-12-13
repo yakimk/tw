@@ -1,0 +1,25 @@
+\subsection{Opis zadania}
+
+\quad W~zadaniu należy obliczyć wartość pochodnej funkcji, używając najpierw wzoru na różnicę prawostronną:
+
+\begin{equation}
+	f'(x) \approx \frac{f(x+h)-f(x)}{h},
+	\label{zad1:eqn1}
+\end{equation}
+a~następnie używając wzoru różnic centralnych, czyli
+
+\begin{equation}
+	f'(x) \approx \frac{f(x+h)-f(x-h)}{2h}.
+	\label{zad1:eqn2}
+\end{equation}
+Rozważaną funkcją jest $tan(x)$ w~punkcie $x=1$, natomiast przyjmowane wartości $h$~wynoszą $10^{-k}, k=0,1,...,16$.
+
+Kolejnym etapem jest wyznaczenie błędu metody, błędu numerycznego i~błędu obliczenowego w~zależności od $h$~oraz odpowiednie ich przedstawienie na wspólnym wykresie i~wyciągnięcie wniosków.
+
+Do obliczenia wspomnianych błędów pomocne będzie skorzystanie z~tożsamości 
+
+\begin{equation}
+	tan'(x)=1+tan^2(x),
+	\label{zad1:eqn3} 
+\end{equation}
+która pozwala wyznaczyć rzeczywistą wartość pochodnej.

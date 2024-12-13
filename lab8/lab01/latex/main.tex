@@ -1,0 +1,66 @@
+\documentclass{sprawozdanie-agh}
+
+\usepackage[utf8]{inputenc}
+\usepackage{listings}
+\usepackage{tikz}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{caption}
+\usepackage{lipsum}
+\usepackage{wrapfig}
+\usepackage{subcaption}
+\usepackage{accsupp}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{amsmath}
+\usepackage{siunitx}    
+\usepackage{pgfplots}
+\usepackage{pgfplotstable}
+
+\graphicspath{ {./images/} }
+\pgfplotsset{compat = newest}
+
+\usetikzlibrary{angles,quotes}
+\makeatletter
+
+\begin{document}
+
+\przedmiot{Metody Obliczeniowe w Nauce i Technice}
+\tytul{Laboratorium 1}
+\podtytul{Analiza błędów}
+\kierunek{Informatyka}
+\autor{Wojciech Michaluk, Kyrylo Iakymenko}
+\data{Kraków, 1 marca 2024}
+
+\stronatytulowa{}
+
+\section{Wprowadzenie}
+
+\input{wprowadzenie.tex}
+
+\section{Zadanie 1}
+
+\input{zad1_opis.tex}
+\input{zad_1_wyn.tex}
+
+\section{Zadanie 2}
+
+\input{zad2_opis.tex}
+\input{zad_2_wyn.tex}
+
+\section{Podsumowanie}
+
+\input{podsumowanie.tex}
+
+\begin{thebibliography}{3}
+
+\bibitem{teams_materials}
+Materiały pomocnicze do laboratorium zamieszczone na platformie Teams w~katalogu \emph{lab01/lab1-intro.pdf}.
+
+
+\bibitem{underflow_wiki}
+Artykuł o `Arithmetic underflow` z wikipedii \url{https://en.wikipedia.org/wiki/Arithmetic_underflow}.
+
+\end{thebibliography}
+
+\end{document}
