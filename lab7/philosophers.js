@@ -3,7 +3,7 @@ const logFile = 'philosophers_logs.txt';
 // fs.writeFileSync(logFile, '');
 
 var advanced_logging = false;
-var logging = false;
+var logging = true;
 var timeWaitingBias = 50;
 var timeWaitingMul = 100;
 
@@ -25,7 +25,9 @@ Fork.prototype.acquire = function(ind, cb) {
     const checkState = (waitTime) => {
         setTimeout(() => {
             if (this.state !== 0) {
+		
                 checkState(waitTime * 2);
+		log1(`Philosopher ${ind} is waiting ${waitTime*2} seconds.`)
             } else {
                 this.state = ind + 1;
                 if (cb) cb();
@@ -240,23 +242,23 @@ for (var i = 0; i < N; i++) {
 }
 
 
-runTest(method, iters, N)
-// switch (method) {
-// 	case "naive":
-// 		for (var i = 0; i < N; i++) {
-// 		    philosophers[i].startNaive(iters);
-// 		}
-// 		break;
-//
-// 	case "asym":
-// 		for (var i = 0; i < N; i++) {
-// 		    philosophers[i].startAsym(iters);
-// 		}
-// 		break;
-//
-// 	case "conduct":
-// 		for (var i = 0; i < N; i++) {
-// 		    philosophers[i].startConductor(iters, conductor);
-// 		}
-// 		break;
-// }
+//runTest(method, iters, N)
+switch (method) {
+	case "naive":
+		for (var i = 0; i < N; i++) {
+		    philosophers[i].startNaive(iters);
+		}
+		break;
+
+	case "asym":
+		for (var i = 0; i < N; i++) {
+		    philosophers[i].startAsym(iters);
+		}
+		break;
+
+	case "conduct":
+		for (var i = 0; i < N; i++) {
+		    philosophers[i].startConductor(iters, conductor);
+		}
+		break;
+}

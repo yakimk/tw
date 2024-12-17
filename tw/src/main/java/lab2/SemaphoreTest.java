@@ -2,7 +2,7 @@ package lab2;
 
 public class SemaphoreTest {
 
-    static private final int iters = 100000000;
+    static private final int iters = 10000000;
     static private final BinarySemaphore semaphore = new BinarySemaphore(BinarySemaphore.State.free);
 
 
