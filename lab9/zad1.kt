@@ -1,6 +1,7 @@
 import kotlinx.coroutines.*
 import kotlinx.coroutines.channels.*
 import kotlinx.coroutines.selects.select
+import kotlinx.coroutines.selects.selectUnbiased
 
 //// Producent i konsument  z wybranym pośrednikiem
 //
@@ -28,7 +29,7 @@ fun main(): Unit = runBlocking {
             delay((100 * p).toLong())
             println("Produced: $p")
 
-            select {
+            selectUnbiased {
                 intermediaryChannels.forEachIndexed { index, channel ->
                     channel.onSend(p) {
                         println("Producer sent $p to intermediary-$index")
